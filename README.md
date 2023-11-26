@@ -39,4 +39,4 @@
 
 运行前需要先将训练好的模型提取成ONNX模型，并将其（dlinknet.onnx）放入PathPlanning/Tools/DLinkNetInference文件夹下。  
 由于dlinknet.onnx文件体积过大（超过100M），无法上传至github，故请自行训练并提取或联系我以获取。  
-关于如何训练与提取ONNX模型，请参阅[主体仓库]((https://github.com/baichuanjiu/PathPlanning-DeepLearning))。
+关于如何训练与提取ONNX模型，请参阅[主体仓库](https://github.com/baichuanjiu/PathPlanning-DeepLearning)。
